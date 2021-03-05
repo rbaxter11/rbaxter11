@@ -1,5 +1,5 @@
 ### Hey, I'm Ryan 👋
-<--- look at this picture someone drew of me
+<--- look at this picture someone drew of me!
 
 - 🔭 I’m currently working on: a stock app that with my brother, see it here! https://github.com/adamscottbaxter/stonks_react
 - 🌱 I’m currently learning: ReactJS, how to be a father, and playing pokemon TCG
